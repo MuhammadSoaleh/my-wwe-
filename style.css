@@ -1,0 +1,18 @@
+ pre {
+     color: white;
+     text-align: left;
+ }
+
+ * {
+     background-color: rgb(31, 27, 27);
+ }
+
+ .h1 {
+     text-align: center;
+     color: azure;
+ }
+
+ p {
+     color: antiquewhite;
+     text-align: center;
+ }
